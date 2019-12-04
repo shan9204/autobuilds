@@ -1,4 +1,3 @@
-```
 sudo: required
 
 services:
@@ -13,4 +12,3 @@ before_script:
 
 script:
     - while ! curl --retry 10 --retry-delay 5 -v http://0.0.0.0:8080 >/dev/null; do sleep 1; done
-```
