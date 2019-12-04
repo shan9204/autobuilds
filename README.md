@@ -1,8 +1,10 @@
+[![Build Status](https://travis-ci.org/shan9204/autobuilds.svg?branch=master)](https://travis-ci.org/shan9204/autobuilds)
+
 # Linux Tweet App
 
-This is very simple NGINX website that allows a user to send a tweet. 
+This is very simple NGINX website that allows a user to send a tweet.
 
-It's mostly used as a sample application for Docker 101 workshops. 
+It's mostly used as a sample application for Docker 101 workshops.
 
 To use it:
 
